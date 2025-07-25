@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-brand: #0F66FF;
+  }
+
+#root {
+  font-family: Helvetica, system-ui, Avenir, Arial, sans-serif;
+  margin: 0 auto;
+}
